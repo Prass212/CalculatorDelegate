@@ -1,0 +1,11 @@
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\bin\Debug\CalculatorDelegateApp.exe.config
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\bin\Debug\CalculatorDelegateApp.exe
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\bin\Debug\CalculatorDelegateApp.pdb
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.csprojAssemblyReference.cache
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.FrmCalculator.resources
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.FrmEntryCalculator.resources
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.Properties.Resources.resources
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.csproj.GenerateResource.cache
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.csproj.CoreCompileInputs.cache
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.exe
+D:\Pemrog Lanjut\CalculatorDelegateApp\CalculatorDelegateApp\obj\Debug\CalculatorDelegateApp.pdb
